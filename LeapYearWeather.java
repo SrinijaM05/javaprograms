@@ -1,3 +1,4 @@
+//write a java program that takes a year from user and print weather and year is a leap year or not
 import java.util.Scanner;
 
 public class LeapYearWeather {
@@ -36,3 +37,6 @@ public class LeapYearWeather {
         }
     }
 }
+Enter a year: 2022
+2022 is not a leap year.
+The weather in 2022 was similar to the weather in 2022.
