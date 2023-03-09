@@ -1,3 +1,4 @@
+//wirte a java program take three numbers from the user and print the greatest number
 import java.util.Scanner;
 public class GreatestNumber {
     public static void main(String[] args) {
@@ -21,3 +22,7 @@ public class GreatestNumber {
 System.out.println("the greatest number is:"+greatest);
 }
 }
+Enter the first number: 83
+Enter the second number: 85
+Enter the third number: 949
+the greatest number is:949
