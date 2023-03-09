@@ -1,3 +1,4 @@
+//write a java program to input five numbers from keyboard and find the sum and average
 import java.util.Scanner;
 
 public class SumAverage {
@@ -19,3 +20,5 @@ public class SumAverage {
         System.out.println("The average of the five numbers is: " + average);
     }
 }
+Please enter five numbers:
+12345
