@@ -1,3 +1,4 @@
+//write a java program to solve quadratic equations
 import java.util.Scanner;
 
 public class QuadraticEquationSolver {
@@ -31,7 +32,10 @@ public class QuadraticEquationSolver {
         scanner.close();
     }
 }
-
+Enter the coefficient of x^2: 5
+Enter the coefficient of x: 8
+Enter the constant term: 3
+The equation has two real roots: -0.6 and -1.0
 
 
 
