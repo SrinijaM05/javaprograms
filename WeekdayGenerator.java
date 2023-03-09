@@ -1,3 +1,4 @@
+//write a java program that keeps a number from the user and generates an integer between one and seven and displace the name of the week day
 import java.util.Scanner;
 
 public class WeekdayGenerator {
@@ -36,3 +37,5 @@ public class WeekdayGenerator {
       System.out.println("The corresponding weekday for the number " + num + " is " + weekday);
    }
 }
+Enter a number: 45
+The corresponding weekday for the number 45 is Wednesday
